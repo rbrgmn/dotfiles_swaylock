@@ -1,0 +1,33 @@
+#    DATE: 2024-09-07
+#  AUTHOR: RBRGMN <roman.bergman@tutanota.com>
+# LICENSE: GPL3.0
+# VERSION: 0.0.1
+
+###
+### ---=== GENERAL ===---
+###
+
+# Deatach from the controlling terminal after locking
+daemonize
+
+# When an empty password is provided, do not validate it
+ignore-empty-password
+
+
+
+###
+### ---===APPEARANCE ===---
+###
+
+# Display the given image
+image=~/.local/share/wallpapers/wallhaven.png
+
+
+# Sets the indicator radius in pixels
+indicator-radius=100
+
+# Sets the indicator position in pixels
+#indicator-x-position=100
+#indicator-y-position=100
+
+hide-keyboard-layout
