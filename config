@@ -1,11 +1,10 @@
 #    DATE: 2024-09-07
 #  AUTHOR: RBRGMN <roman.bergman@tutanota.com>
-# LICENSE: GPL3.0
-# VERSION: 0.0.1
+# LICENSE: AGPL3.0
 
-###
-### ---=== GENERAL ===---
-###
+#
+# GENERAL
+#
 
 # Deatach from the controlling terminal after locking
 daemonize
@@ -14,10 +13,9 @@ daemonize
 ignore-empty-password
 
 
-
-###
-### ---===APPEARANCE ===---
-###
+#
+# APPEARANCE
+#
 
 # Display the given image
 image=~/.local/share/wallpapers/wallhaven.png
